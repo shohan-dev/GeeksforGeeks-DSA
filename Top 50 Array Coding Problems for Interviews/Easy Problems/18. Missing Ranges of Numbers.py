@@ -12,4 +12,4 @@ class Solution:
         if a[-1] < upper:
             final.append([a[-1] + 1, upper])
 
-        return final
+        return final 
