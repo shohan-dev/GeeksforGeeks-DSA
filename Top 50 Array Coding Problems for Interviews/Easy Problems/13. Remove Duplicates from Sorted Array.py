@@ -1,2 +1,3 @@
-# Remove Duplicates from Sorted Array
-
+class Solution:
+    def removeDuplicates(self, a):
+        return list(set(a))
